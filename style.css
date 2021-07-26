@@ -1,0 +1,98 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+header {
+    background: red;
+    color: white;
+    text-align: center;
+    height: 100px;
+}
+
+.companyImg {
+    background: red;
+    color: white;
+    text-align: center;
+    height: 100px;
+    margin-top: 20px;
+}
+
+.Ourservice {
+    text-align: center;
+    height: 100px;
+    margin-top: 20px;
+    color: red;
+}
+.container {
+    width: 1140px;
+    padding-left: 15px;
+    margin: auto;
+    overflow: hidden;
+}
+
+.service-1 {
+    background: red;
+    width: 350px;
+    height: 250px;
+    float: left;
+    color: white;
+    text-align: center;
+}
+
+.service-2 {
+    background: red;
+    width: 350px;
+    height: 250px;
+    float: left;
+    color: white;
+    text-align: center;
+    margin-left: 40px;
+}
+
+.service-3 {
+    background: red;
+    width: 350px;
+    height: 250px;
+    float: left;
+    color: white;
+    text-align: center;
+    margin-left: 39px;
+}
+.service-4 {
+    background: red;
+    width: 350px;
+    height: 250px;
+    float: left;
+    color: white;
+    text-align: center;
+    margin-top: 20px;
+}
+
+.service-5 {
+    background: red;
+    width: 350px;
+    height: 250px;
+    float: left;
+    color: white;
+    text-align: center;
+    margin-left: 40px;
+    margin-top: 20px;
+}
+
+.service-6 {
+    background: red;
+    width: 350px;
+    height: 250px;
+    float: left;
+    color: white;
+    text-align: center;
+    margin-left: 39px;
+    margin-top: 20px;
+}
+.footer{
+    background: red;
+    color: white;
+    text-align: center;
+    height: 100px;
+    margin-top: 20px;
+}
